@@ -8,7 +8,7 @@ Email time parser for messagethen.com
 
 Not all of them have been implemented yet, but will be
 
-### Time
+### Time (done)
 
 - 1minute@email.com
 - 2hours@email.com
