@@ -79,7 +79,7 @@ Not all of them have been implemented yet, but will be
 ### Recurring (maybe)
 
 - every1pm@email.com
-- every6am-sms@email.com
+- every6am@email.com
 - everyDay630am@email.com
 - everyDay1600@email.com
 - 6pmDaily@email.com
@@ -90,7 +90,7 @@ Not all of them have been implemented yet, but will be
 - everywed@email.com
 - everywed630pm@email.com
 - everywednesday1600@email.com
-- everyMonday9am-sms@email.com 
+- everyMonday9am@email.com 
 - every15th@email.com
 - every1st8am@email.com
 - 1600every1st@email.com (Hour must come first with 24hr in this context)
